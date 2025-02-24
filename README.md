@@ -1,5 +1,11 @@
-# Day_six_bootcamp
-Product and Revenue Analysis, data cleaning , data formatting, data visualization
+Product and Revenue Analysis, on this product and revenue analysis  i analysis my data base 
+
+1. Which Product Line Generates the Highest Total Revenue?
+2.  Which Product Line Has the Highest Average Sales Per Transaction?
+3.  What Is the Total Quantity Sold for Each Product Line?
+4.  Which Branch Sells the Most of Each Product Line?
+5.   Which Product Line Is Most Popular Among Male vs. Female Customers?
+and i explain how to use excel step step  to solve the problem using data cleaning , data formatting, data visualization
 Step-by-Step Guide: Product and Revenue Analysis (Pivot Tables in Excel
 
 1. Which Product Line Generates the Highest Total Revenue?
